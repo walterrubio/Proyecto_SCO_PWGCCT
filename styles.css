@@ -370,11 +370,11 @@ nav>a:hover{
 
 
 #sexta-seccion{
+    background: linear-gradient(rgba(68,13,13,0.35), rgba(38,2,2,0.446)), url("https://uba.edu.ve/wp-content/gallery/sede-sanjoaquin/Foto_1.jpg") no-repeat center/cover;
     text-align: center;
     padding-bottom: 2rem;
-    padding-top: 1rem;
-    border-color: black;
-    background-color: rgba(2, 71, 245, 0.692);
+    padding-top: 1rem;    
+    color: white;
 }
 
 
